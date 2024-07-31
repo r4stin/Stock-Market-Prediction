@@ -1,4 +1,5 @@
-# Stock-Market-Prediction
+# Stock Price Prediction using LSTM
+
 This repository contains a project for predicting stock prices using Long Short-Term Memory (LSTM) neural networks. The project fetches historical stock price data from an API, preprocesses the data, trains an LSTM model, and use the trained model to make future stock price predictions for 14 days (last 13 days + 1 coming day). The implementation is done on Kaggle.
 ## Install the required dependencies:
 
